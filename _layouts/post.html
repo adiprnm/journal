@@ -9,14 +9,13 @@
   <body>
     <div class="container body-wrapper" id="top">
       <section>
-        <h1 class="site-title">{{ site.title | default: "Adi Purnama" }}</h1>
-        <p class="site-description">{{ site.description | default: "a personal blog." }}</p>
-        <hr />
-        <nav>
-          <a href="#">Beranda</a> | <a href="#">Tentang Saya</a> | <a href="#">Arsip</a> | <a href="$">Kategori</a>
-        </nav>
+        <a href="/" class="back">← Kembali ke beranda</a>
+        <h1 class="post-card__title">{{ page.title }}</h1>
+        <hr class="post-divider" />
+        <p class="post-card__published-at">{{ page.published_at }} · {{ page.content | number_of_words | divided_by: 250.0 | round }} menit</p>
+        <p></p>
       </section>
-      <section>
+      <section class="post-content">
         {{ content }}
       </section>        
     </div>

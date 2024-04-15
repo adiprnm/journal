@@ -1,0 +1,17 @@
+.post-card {
+    margin: 3rem 0;
+
+    &__title {
+        margin-bottom: 0; 
+        
+        a {
+            color: #dfdfdf;
+        }
+    }
+
+    &__published-at {
+        color: #aaaaaa;
+        margin-top: 0.5rem;
+        font-size: 14px;
+    }
+}
