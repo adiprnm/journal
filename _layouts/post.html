@@ -21,7 +21,7 @@
         <a href="/" class="back">← Kembali ke beranda</a>
         <h1 class="post-card__title">{{ page.title }}</h1>
         <hr class="post-divider" />
-        <p class="post-card__published-at">{{ page.published_at }} · {{ page.content | number_of_words | divided_by: 250.0 | round }} menit</p>
+        <p class="post-card__published-at">{{ page.published_at }} · {{ page.content | number_of_words | divided_by: 250.0 | ceil }} menit</p>
         <p></p>
       </section>
       <section class="post-content">

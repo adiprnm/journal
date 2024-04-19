@@ -9,4 +9,5 @@ Silakan pilih RSS Feed sesuai dengan kategori tulisan sesuai.
 - [Programming](/feed/programming.xml)
 - [Kehidupan](/feed/kehidupan.xml)
 - [Kuliner](/feed/kuliner.xml)
+- [Opini](/feed/opini.xml)
 - [Semua Kategori](/feed.xml)

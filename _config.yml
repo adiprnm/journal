@@ -28,6 +28,7 @@ feed:
   - programming
   - kehidupan
   - kuliner
+  - opini
 
 plugins:
 - jekyll-paginate
