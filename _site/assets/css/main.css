@@ -10,6 +10,7 @@ body {
 
 .site-description {
   margin-top: 0.5rem;
+  font-size: 14px;
 }
 
 a {
@@ -68,6 +69,77 @@ nav {
 
 p {
   line-height: 1.5em;
+}
+
+.archive-wrapper {
+  max-height: 50vh;
+  overflow-y: scroll;
+}
+.archive-wrapper::-webkit-scrollbar {
+  width: 6px;
+}
+.archive-wrapper::-webkit-scrollbar-thumb {
+  background: #555555;
+  border-radius: 1rem;
+}
+.archive-wrapper > div {
+  margin: 2.5rem 0;
+}
+.archive-wrapper > div:nth-child(1), .archive-wrapper > div:nth-child(1) h1 {
+  margin-top: 0;
+}
+.archive-wrapper > div:last-child {
+  margin-bottom: 0;
+}
+
+.previous-post, .next-post {
+  font-size: 14px;
+}
+
+.previous-post {
+  text-align: left;
+}
+
+.next-post {
+  text-align: right;
+}
+
+.truncate {
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+blockquote {
+  border-left: 3px solid #aaaaaa;
+  margin-left: 0;
+  padding-left: 1rem;
+  font-style: italic;
+}
+
+img {
+  width: 100%;
+}
+
+@media screen and (min-width: 480px) {
+  img {
+    width: 80%;
+    margin: 0 auto;
+    display: block;
+  }
+}
+p:has(> img + em) {
+  font-size: 10pt;
+  text-align: center;
+}
+
+p > img + em {
+  display: block;
+  margin-top: 0.75rem;
+}
+
+li {
+  margin: 0.5rem 0;
 }
 
 .container {

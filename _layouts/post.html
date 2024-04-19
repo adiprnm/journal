@@ -3,8 +3,14 @@
   <head>
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta charset="utf-8">
-    <title>{{ page.title }} - {{ site.title }}</title>
     <link rel="stylesheet" href="{{ "/assets/css/main.css" | relative_url }}">
+    <link rel="icon" href="/assets/images/adi-square.jpg">
+    {% seo %}
+    <style>
+      html {
+        scroll-behavior: smooth;
+      }
+    </style>
   </head>
   <body>
     <div class="container body-wrapper" id="top">
@@ -17,6 +23,26 @@
       </section>
       <section class="post-content">
         {{ content }}
+
+        <nav class="post-navigation-wrapper" style="margin-top: 3rem;">
+          {% if page.previous %}
+              <a class="post-pagination-nav previous-post truncate" href="{{ page.previous.url }}">
+                ←<br/>
+                {{ page.previous.title }}
+              </a>
+          {% else %}
+              <a class="post-pagination-nav" href="#"></a>
+          {% endif %}
+              
+          {% if page.next %}
+            <a class="post-pagination-nav next-post truncate" href="{{ page.next.url }}">
+              →<br/>
+              {{ page.next.title }}
+            </a>
+          {% else %}
+              <a class="post-pagination-nav" href="#"></a>
+          {% endif %}
+      </nav>
       </section>        
     </div>
   </body>

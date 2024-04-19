@@ -1,7 +1,35 @@
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "http://localhost:4000" # the base hostname & protocol for your site, e.g. http://example.com
 baseurl: "" # the subpath of your site, e.g. /blog
-title: "" # the name of your site, e.g. ACME Corp.
-paginate: 1
+title: "Adi Purnama" # the name of your site, e.g. ACME Corp.
+tagline: Jurnal orang biasa
+description: Tempat nulis opini dan catatan ringan seputar tech dan kehidupan
+author: Adi Purnama
+twitter:
+  card: summary
+  username: adi_prnm
+logo: /assets/images/adi-square.jpg
+image: 
+  path: /assets/images/adi-square.jpg
+  alt: Adi Purnama
+social:
+  name: Adi Purnama
+  links:
+  - https://twitter.com/adi_prnm
+  - https://github.com/adiprnm
+  - https://linkedin.com/in/adi-prnm
+google_site_verification: ""
+locale: id_ID
+
+paginate: 6
 paginate_path: "/posts/page-:num/"
+
+feed:
+  categories:
+  - programming
+  - kehidupan
+  - kuliner
+
 plugins:
 - jekyll-paginate
+- jekyll-feed
+- jekyll-seo-tag
