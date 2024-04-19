@@ -2,7 +2,7 @@ url: "http://localhost:4000" # the base hostname & protocol for your site, e.g. 
 baseurl: "" # the subpath of your site, e.g. /blog
 title: "Adi Purnama" # the name of your site, e.g. ACME Corp.
 tagline: Jurnal orang biasa
-description: Tempat nulis opini dan catatan ringan seputar tech dan kehidupan
+description: Tempat nulis opini dan catatan ringan seputar tech dan daily life.
 author: Adi Purnama
 twitter:
   card: summary
@@ -17,7 +17,7 @@ social:
   - https://twitter.com/adi_prnm
   - https://github.com/adiprnm
   - https://linkedin.com/in/adi-prnm
-google_site_verification: ""
+google_site_verification: google-site-verification=IiH3Ofey8Y2cbvKc6dp_yCPsEF9Hlk3zScc2LtxsHwk
 locale: id_ID
 
 paginate: 6
