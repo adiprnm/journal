@@ -16,4 +16,4 @@ Pembaca bisa tetap up-to-date dengan blog ini via [RSS feed](/rss-feed). Silahka
 
 Semoga blog ini bermanfaat sebagai sumber informasi atau sebagai teman ngemil pembaca.
 
-Oiya, pembaca juga bisa menemukan saya di X [@adi_prnm](https://twitter.com/adi_prnm).
+Oiya, pembaca juga bisa menemukan saya di X [@adi_prnm](https://twitter.com/adi_prnm) dan di GitHub [adiprnm](https://github.com/adiprnm).
