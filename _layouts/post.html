@@ -27,6 +27,11 @@
       <section class="post-content">
         {{ content }}
 
+        <p>
+          Bagikan:<br/>
+          <a target="_blank" href='https://twitter.com/intent/tweet?text={{ page.title }} {{ site.url }}{{ page.url }}'>Twitter</a>
+        </p>
+        
         <nav class="post-navigation-wrapper" style="margin-top: 3rem;">
           {% if page.previous %}
               <a class="post-pagination-nav previous-post truncate" href="{{ page.previous.url }}">

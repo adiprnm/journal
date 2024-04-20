@@ -1,6 +1,6 @@
 ---
 layout: post
-permalink: /posts/harga-sebuag-kebebasan
+permalink: /posts/harga-sebuah-kebebasan
 title: Harga Sebuah Kebebasan
 published_at: 20 April 2024
 category: opini
