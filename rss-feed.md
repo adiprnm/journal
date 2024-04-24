@@ -4,7 +4,7 @@ title: RSS Feed
 permalink: /rss-feed
 ---
 
-Silakan pilih RSS Feed sesuai dengan kategori tulisan sesuai.
+Silakan pilih RSS Feed berdasarkan kategori tulisan.
 
 - [Programming](/feed/programming.xml)
 - [Kehidupan](/feed/kehidupan.xml)
