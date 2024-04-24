@@ -7,10 +7,12 @@ permalink: /tech
 <p style="margin-bottom: 2rem;">Halaman ini menampilkan semua tulisan tentang programming dan tech lainnya.</p>
 <div class="archive-wrapper">
     {% assign programming_posts = site.categories["programming"] %}
-    {% for post in programming_posts %}
-        <div>
-            <h3 class="post-card__title" style="margin-top: 0;"><a href="{{ post.url }}">{{ post.title }}</a></h3>
-            <p class="post-card__published-at">{{ post.published_at }} · {{ post.content | number_of_words | divided_by: 250.0 | round }} menit</p>
-        </div>
-    {% endfor %}
+    <div>
+        {% for post in programming_posts %}
+            <div>
+                <h3 class="post-card__title" style="margin-top: 0;"><a href="{{ post.url }}">{{ post.title }}</a></h3>
+                <p class="post-card__published-at">{{ post.published_at }} · {{ post.content | number_of_words | divided_by: 250.0 | round }} menit</p>
+            </div>
+        {% endfor %}
+    </div>
 </div>
