@@ -16,43 +16,42 @@
     </style>
   </head>
   <body>
-    <div class="container body-wrapper" id="top">
-      <section>
-        <a href="/" class="back">← Kembali ke beranda</a>
+    <main class="container body-wrapper" id="top">
+      <a href="/" class="back">← Kembali ke beranda</a>
+      
+      <article class="post-content">
         <h1 class="post-card__title">{{ page.title }}</h1>
         <hr class="post-divider" />
         <p class="post-card__published-at">{{ page.published_at }} · {{ page.content | number_of_words | divided_by: 250.0 | ceil }} menit</p>
-        <p></p>
-      </section>
-      <section class="post-content">
-        {{ content }}
 
-        <p>
-          Bagikan:<br/>
-          <a target="_blank" href='https://twitter.com/intent/tweet?text={{ page.title }} {{ site.url }}{{ page.url }}'>Twitter</a>
-        </p>
-        
-        <nav class="post-navigation-wrapper" style="margin-top: 3rem;">
-          {% if page.previous %}
-              <a class="post-pagination-nav previous-post truncate" href="{{ page.previous.url }}">
-                ←<br/>
-                {{ page.previous.title }}
-              </a>
-          {% else %}
-              <a class="post-pagination-nav" href="#"></a>
-          {% endif %}
-              
-          {% if page.next %}
-            <a class="post-pagination-nav next-post truncate" href="{{ page.next.url }}">
-              →<br/>
-              {{ page.next.title }}
+        {{ content }}
+      </article>
+
+      <p>
+        Bagikan:<br/>
+        <a target="_blank" href='https://twitter.com/intent/tweet?text={{ page.title }} {{ site.url }}{{ page.url }}'>Twitter</a>
+      </p>
+      
+      <nav class="post-navigation-wrapper" style="margin-top: 3rem;">
+        {% if page.previous %}
+            <a class="post-pagination-nav previous-post truncate" href="{{ page.previous.url }}">
+              ←<br/>
+              {{ page.previous.title }}
             </a>
-          {% else %}
-              <a class="post-pagination-nav" href="#"></a>
-          {% endif %}
-      </nav>
-      </section>        
-    </div>
+        {% else %}
+            <a class="post-pagination-nav" href="#"></a>
+        {% endif %}
+            
+        {% if page.next %}
+          <a class="post-pagination-nav next-post truncate" href="{{ page.next.url }}">
+            →<br/>
+            {{ page.next.title }}
+          </a>
+        {% else %}
+            <a class="post-pagination-nav" href="#"></a>
+        {% endif %}
+      </nav>    
+    </main>
   </body>
   <footer class="container footer-nav-wrapper">
     <hr />

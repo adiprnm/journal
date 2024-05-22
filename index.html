@@ -4,12 +4,12 @@ title: Adi Purnama
 ---
 
 {% for post in paginator.posts %}
-    <div class="post-card">
+    <article class="post-card">
         <h1 class="post-card__title"><a href="{{ post.url }}">{{ post.title }}</a></h1>
         <p class="post-card__published-at">{{ post.published_at }} · {{ post.content | number_of_words | divided_by: 250.0 | round }} menit</p>
         <p>{{ post.excerpt }}</p>
         <a href="{{ post.url }}">Baca selengkapnya</a>
-    </div>
+    </article>
 {% endfor %}
 
 <nav class="post-navigation-wrapper">
