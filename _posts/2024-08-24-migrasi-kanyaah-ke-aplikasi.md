@@ -30,6 +30,9 @@ Untungnya, WordPress menyediakan REST API untuk mendapatkan ucapan dan konfirmas
 
 Setelah semua undangan termigrasi, saya arahkan domain [https://kanyaah.com](https://kanyaah.com) dari shared hosting WordPress ke aplikasi tersebut. Dan yap, akhirnya website [https://kanyaah.com](https://kanyaah.com) menjadi seperti sekarang.
 
+![Kanyaah Undangan Digital Online Pangandaran custom langsung jadi](/assets/images/2024/08/kanyaah.jpeg)
+*Tampilan web Kanyaah yang baru*
+
 Oiya. Di aplikasi ini, pembayaran undangan udah pakai payment gateway. Jadi, pengguna nggak perlu konfirmasi pembayaran lagi. Undangan akan langsung aktif setelah pembayaran berhasil.
 
 Sekarang, saya bisa lebih fokus untuk promosi dan support jika ada pengguna yang mengalami kendala.
