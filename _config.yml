@@ -8,7 +8,7 @@ twitter:
   card: summary
   username: adi_prnm
 logo: /assets/images/adi-square.jpg
-image: 
+image:
   path: /assets/images/adi-square.jpg
   alt: Adi Purnama
 social:
@@ -22,6 +22,7 @@ locale: id_ID
 
 paginate: 6
 paginate_path: "/posts/page-:num/"
+excerpt_separator: <!--more-->
 
 feed:
   categories:
