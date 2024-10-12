@@ -7,7 +7,7 @@ category: kehidupan
 ---
 
 Sudah beberapa hari ini, gusi gigi geraham bagian belakang saya rasanya sakit sekali. Mengunyah dan menelan makanan rasanya kurang nyaman. Saya kira panas dalam biasa, makanya saya coba minum larutan penyembuh panas dalam. Ternyata belum mendingan juga.
-
+<!--more-->
 Karena sakitnya semakin menjadi, akhirnya saya periksa ke puskesmas terdekat. Diagnosisnya ternyata perikoronitis. Mengutip dari situs [Alodokter](https://alodokter.com/perikoronitis), Perikoronitis adalah peradangan pada gusi di sekitar gigi bungsu yang sedang tumbuh. Usia 20-29 tahun katanya juga memang jadi salah satu faktor meningkatnya resiko perikoronitis.
 
 Menurut dokter gigi sih nggak harus dioperasi, karena giginya sudah bagus dan nggak ada indikasi untuk operasi. Tinggal menunggu radangnya reda. Makanya, saya hanya diberi obat pereda nyeri dan antibiotik.

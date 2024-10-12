@@ -9,7 +9,7 @@ category: liburan
 Besoknya, sekitar pukul setengah 7 pagi, kami berangkat menuju Malioboro untuk mencari sarapan. Tujuan utama kami adalah gudeg Mbok Lindu.
 
 Sesampainya di sana, ternyata sudah ramai oleh pembeli. Antreannya cukup panjang. Kata istri, kalau suatu tempat makan itu ramai oleh pembeli, kemungkinan besar makanan di tempat itu enak.
-
+<!--more-->
 Setelah dicoba ternyata memang enak. Bumbunya pas sekali. Nggak menyesal antre lama-lama kalau rasanya enak begini, hehe.
 
 ![Gudeg Mbok Lindu](/assets/images/2023/01/gudeg-mbok-lindu.jpeg)

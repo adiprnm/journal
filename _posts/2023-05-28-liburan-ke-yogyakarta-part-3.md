@@ -9,7 +9,7 @@ published_at: 28 Januari 2020
 Halo. Udah lama juga ya sejak terakhir post saya yang liburan ke Yogyakarta *part* 2. Karena kesibukan dan satu-lain hal, akhirnya tulisan yang harusnya jadi penutup seri liburan ke Yogyakarta telat terbit.
 
 *So*, untuk melunasi hutang, mari kita mulai lagi menulis liburan ke Yogyakarta *part* 3.
-
+<!--more-->
 ***
 
 Hari ketiga di Yogyakarta kami habiskan dengan kulineran, lagi dan lagi. Yaa karena tujuan utama kami liburan untuk menikmati kuliner khas Yogyakarta sih.

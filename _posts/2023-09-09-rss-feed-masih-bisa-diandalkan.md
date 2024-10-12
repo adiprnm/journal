@@ -7,7 +7,7 @@ published_at: 09 September 2024
 ---
 
 Belakangan ini saya senang membaca artikel-artikel atau tweet-tweet yang berkaitan dengan dunia IT, khususnya Ruby on Rails. Banyak sekali informasi baru yang saya peroleh, dari tips-tips saat *development* hingga opini tokoh-tokoh di dunia IT. Yaaa sekalian menambah kosa kata bahasa Inggris saya yang masih sebatas *basic conversation* ini.
-
+<!--more-->
 Para tokoh ini biasanya menulis di platform terpisah dari X (Twitter) jika tulisannya memang cukup panjang dan komprehensif. Jadi, ketika saya ingin baca tulisan mereka, saya harus buka aplikasi X terlebih dahulu, kemudian kunjungi profil tokoh yang saya ingin baca tulisannya, cari artikel yang ingin saya baca, kemudian klik.
 
 Sebuah *journey* baca artikel yang terlalu panjang.

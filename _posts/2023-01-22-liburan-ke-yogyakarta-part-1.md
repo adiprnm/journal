@@ -9,7 +9,7 @@ category: liburan
 Saya sebelumnya pernah nulis tentang perjalanan liburan saya bersama istri di Twitter, di kereta tepat ketika dalam perjalanan pulang. Tapi sampai sekarang belum dilanjut karena keburu malas nulis, hehe.
 
 Mumpung sekarang sedang semangat, saya akan coba tulis lagi dari awal. Saya coba tulis lebih detail dari thread saya di Twitter.
-
+<!--more-->
 ***
 
 Liburan ini sebenarnya sudah diagendakan jauh-jauh hari, bahkan sebelum hari pernikahan kami. Tapi karena waktu itu kasus COVID-19 sedang naik, akhirnya kami mengurungkan niat tersebut.

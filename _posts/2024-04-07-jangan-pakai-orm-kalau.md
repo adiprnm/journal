@@ -11,7 +11,7 @@ Beberapa waktu lalu, di X ada perdebatan menggunai apakah penggunaan Object Rela
 Ternyata cukup banyak orang yang kontra terhadap penggunaan ORM. Alasannya macam-macam.
 
 Ada yang bilang performance jadi jelek, ada juga yang bilang kalau bisa langsung raw query, kenapa harus pakai ORM. Bahkan ada juga yang bilang bahwa penggunaan ORM cukup menyulitkan pengembang untuk melakukan tracing karena nama tabel jadi disamarkan (saya penasaran tentang ini).
-
+<!--more-->
 Setelah saya pelajari, orang yang misuh-misuh di X terkait penggunaan ORM ini kemungkinan adalah orang-orang yang arsitektur aplikasinya menerapkan arsitektur microservice, yang mana tiap service bisa saja menggunakan bahasa pemrograman yang beda-beda.
 
 Coba bayangkan, misal ada 3 service yang ditulis dengan 3 bahasa yang berbeda, masing-masing bahasa mempunyai ORM-nya masing-masing, dengan API ORM yang berbeda-beda. Otomatis pengembang tersebut harus paham dengan API ORM tiga bahasa tersebut.

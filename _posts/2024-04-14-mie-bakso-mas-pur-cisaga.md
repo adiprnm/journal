@@ -9,7 +9,7 @@ category: kuliner
 Di perjalanan mudik kemarin, kami mampir ke sebuah warung bakso di Cisaga. Kalau dari arah Pangandaran, lokasinya berada di sebelah kanan jalan, sebelum pom bensin. Namanya Mie Bakso Ojolali.
 
 Warung bakso ini ramai sekali dikunjungi pembeli. Lebaran memang identik dengan makan bakso, selain baju baru dan opor ayam. Selama kami berada di sana, antrian pembeli hampir nggak berkurang sama sekali.
-
+<!--more-->
 Selain bakso, warung bakso ini juga jual mie ayam. Karena lagi lebaran, dari sekian banyak pembeli, saya nggak melihat ada yang beli mie ayam 😄
 
 Saya suka tekstur baksonya, nggak terlalu lembek. Kenyalnya berasa. Bakso besarnya juga saya suka. Kalau dibelah, isinya ada 2 daging yang sudah dihaluskan dan dibentuk bulat, ditambah 1 telur puyuh. Tekstur mie nya juga nggak kalah dengan tekstur bakso.

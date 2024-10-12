@@ -8,10 +8,10 @@ category: liburan
 
 Libur panjang minggu ini kami manfaatkan untuk liburan ke Malang bersama kerabat. Kami berangkat Minggu pagi, sekitar jam 9. Karena perjalanan menuju Malang itu jauh banget, hari pertama kami menginap di Yogyakarta.
 
-Kami berangkat dari Yogyakarta menuju Malang Senin pagi. Perjalanan Yogyakarta-Malang ini menghabiskan waktu yang kurang lebih sama dengan perjalanan Pangandaran-Yogyakarta, sekitar 7 jam. 
+Kami berangkat dari Yogyakarta menuju Malang Senin pagi. Perjalanan Yogyakarta-Malang ini menghabiskan waktu yang kurang lebih sama dengan perjalanan Pangandaran-Yogyakarta, sekitar 7 jam.
 
 Kami sampai di Malang sekitar kurang lebih pukul 5 sore. Kami beristirahat sejenak, menyempatkan untuk tidur, karena jam 12 malam, kami akan menuju Bromo.
-
+<!--more-->
 Jam 12 lebih 15 menit, mobil yang akan mengantar kami ke Bromo tiba di homestay. Sebelum menuju basecamp, kami mampir ke tempat penyewaan jaket. Saya sewa jaket yang lebih tebal, karena jaket yang saya bawa sangat tipis. Nggak akan kuat menahan dinginnya Bromo.
 
 Kurang lebih sekitar pukul 1 pagi, kami tiba di basecamp. Di sana tampak sangat ramai, meskipun bukan weekend. Yah, sepertinya weekend atau weekday nggak terlalu berlaku bagi Bromo.
@@ -66,7 +66,7 @@ Kami berfoto di beberapa spot dengan view yang bagus. Saya pribadi lebih banyak 
 
 ![Foto berenam](/assets/images/2024/05/savana-bromo-3.jpeg)
 
-Setelah puas berfoto, sekitar pukul 10 pagi, kami kembali ke basecamp, dan bersiap pulang ke homestay. 
+Setelah puas berfoto, sekitar pukul 10 pagi, kami kembali ke basecamp, dan bersiap pulang ke homestay.
 
 Bersambung...
 

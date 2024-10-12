@@ -8,10 +8,10 @@ category: programming
 
 Ada satu fun fact soal diri saya: saya masuk ke bidang web development karena laptop saya kentang 😂
 
-Awalnya saya tertarik mendalami bidang mobile development, dan nggak ada kepikiran sama sekali masuk ke bidang web development. 
+Awalnya saya tertarik mendalami bidang mobile development, dan nggak ada kepikiran sama sekali masuk ke bidang web development.
 
 Saya akhirnya menyerah. Buka Android Studio aja lama banget, apalagi build app-nya. Udah coba dual boot pakai Ubuntu Mate pun tetap berat, karena ya problemnya di spek laptop yang rata kiri.
-
+<!--more-->
 Akhirnya berkenalanlah sama web development. Waktu itu saya pikir asik juga, modal CodeIgniter dan laptop kentang udah bisa bikin web apps.
 
 Pas magang, baru tau ada istilah front-end dan backend. Saya milih backend karena saya lebih suka ngoding buat support business logic, dan backend nggak perlu pusing gimana caranya buat gambar jadi di tengah layar.

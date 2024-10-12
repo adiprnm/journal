@@ -7,7 +7,7 @@ category: opini
 ---
 
 Beberapa waktu lalu, saya agak sedikit dilema ketika memilih platform untuk blogging. Di satu sisi, saya perlu analytic website. WordPress punya ini, dan cukup lengkap. Di sisi lain, untuk perihal website, saya suka kalau saya punya kontrol penuh terhadap website saya. Jekyll unggul dalam hal ini.
-
+<!--more-->
 Akhirnya saya lebih memilih kontrol penuh daripada analytic website. Ada sensasi tersendiri ketika saya punya kontrol penuh terhadap website saya sendiri. Rasanya lebih leluasa dan bebas aja mau ngapain: nulis, atur tampilan, tambah halaman baru, dsb.
 
 Perihal analytic, masih bisa saya lihat informasinya di Google Search Console. Fitur komentar bisa pakai Disqus, tapi saya belum perlu fitur ini. Tema tampilan website pun jarang diganti. Subscription bisa via RSS feed. Bagi saya, karena saya bisa ngoding web, Jekyll sepertinya jadi pilihan paling tepat.

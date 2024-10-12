@@ -9,7 +9,7 @@ category: sidehustle
 Saya punya side hustle kecil-kecilan. Namanya **[Kanyaah](https://kanyaah.com)**. Fokus ke undangan online, khususnya pernikahan. Tapi sekarang udah mendukung undangan khitan juga.
 
 Saya melihat bisnis yang berkaitan dengan pernikahan nggak akan ada matinya. Terbukti dari jumlah order yang diterima. Meskipun nggak banyak sih, tapi dengan promosi yang sangat minim, jumlah order segitu menurut saya lumayan untuk nambah-nambah uang jajan.
-
+<!--more-->
 Bikin undangannya pakai WordPress. Tambah Elementor sebagai page builder. Saya juga install beberapa plugin lainnya untuk mendukung beberapa fitur yang saya inginkan.
 
 Masalah utamanya, setiap ada pesanan baru, saya harus input data undangan secara manual. Padahal prosesnya ya gitu-gitu aja. Isi data mempelai, isi informasi acara, dsb.

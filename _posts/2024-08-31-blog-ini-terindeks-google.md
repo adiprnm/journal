@@ -11,7 +11,7 @@ Awal-awal saya buat blog ini, saya cukup cemas. Blog saya udah hampir satu bulan
 Sekalinya keindeks, yang keindeks itu malah situs judol yang memanfaatkan subdomain *mail.adipurnm.my.id* dan *ftp.adipurnm.my.id* 😡. Langsung saya report via Google Search Console.
 
 Beberapa cara udah dilakukan supaya bisa lebih cepat terindeks google. Pakai semantic HTML, ini sepertinya belum sempurna, tapi saya rasa udah cukup. Request reindex di GSC beberapa kali. Pakai permalink supaya urlnya jadi lebih rapi. Ganti hosting dari Vercel ke Netlify, terus dari Netlify ke Github Pages.
-
+<!--more-->
 Tapi tetap aja, blog ini sulit sekali terindeks. Saya sempat mikir: *"apa ini karena hostingnya gratisan ya?"*, *"apa karena nama domainnya ya?"*. Tapi saya tepis pemikiran itu, karena secara teknis harusnya masih bisa-bisa aja kok terindeks, tanpa memperhatikan jenis hosting atau domain.
 
 Sampai di satu titik "yaudahlah". Mau keindeks atau nggak juga gapapa. Saya mau fokus nulis aja. Walaupun kenyataannya nulisnya jarang sih, ahaha.

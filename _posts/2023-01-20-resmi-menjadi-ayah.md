@@ -8,7 +8,7 @@ category: kehidupan
 Sudah hampir seminggu istri mengeluh semakin nggak bisa tidur dengan nyaman. Miring kiri salah. Kanan salah. Telentang pun salah. Wajar aja, karena memang ukuran perutnya saya lihat semakin besar. Udah mendekati HPL.
 
 Tapi lama kelamaan nggak tega juga. Akhirnya sekitar pukul 3 pagi, setelah mengusap punggung istri, saya mengambil wudhu, kemudian shalat dan berdoa kepada-Nya.
-
+<!--more-->
 > Ya Rabb, jika memang sudah waktunya anak kami lahir, maka saya dan istri ridha atas apa yang akan terjadi kelak.
 
 Tak disangka, ternyata doa saya diijabah.
