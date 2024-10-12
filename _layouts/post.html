@@ -18,7 +18,7 @@
   <body>
     <main class="container body-wrapper" id="top">
       <a href="/" class="back">← Kembali ke beranda</a>
-      
+
       <article class="post-content">
         <h1 class="post-card__title">{{ page.title }}</h1>
         <hr class="post-divider" />
@@ -29,9 +29,9 @@
 
       <p>
         Bagikan:<br/>
-        <a target="_blank" href='https://twitter.com/intent/tweet?text={{ page.title }} {{ site.url }}{{ page.url }}'>Twitter</a>
+        <a target="_blank" href='https://x.com/intent/post?text={{ page.title }} {{ site.url }}{{ page.url }}'>Twitter/X</a>
       </p>
-      
+
       <nav class="post-navigation-wrapper" style="margin-top: 3rem;">
         {% if page.previous %}
             <a class="post-pagination-nav previous-post truncate" href="{{ page.previous.url }}">
@@ -41,7 +41,7 @@
         {% else %}
             <a class="post-pagination-nav" href="#"></a>
         {% endif %}
-            
+
         {% if page.next %}
           <a class="post-pagination-nav next-post truncate" href="{{ page.next.url }}">
             →<br/>
@@ -50,7 +50,7 @@
         {% else %}
             <a class="post-pagination-nav" href="#"></a>
         {% endif %}
-      </nav>    
+      </nav>
     </main>
   </body>
   <footer class="container footer-nav-wrapper">

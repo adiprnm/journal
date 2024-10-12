@@ -9,6 +9,11 @@ title: Adi Purnama
         <p class="post-card__published-at">{{ post.published_at }} · {{ post.content | number_of_words | divided_by: 250.0 | ceil }} menit</p>
         <p>{{ post.excerpt }}</p>
         <a href="{{ post.url }}">Baca selengkapnya</a>
+        <hr class="dashed-separator">
+        <p>
+          Bagikan:<br/>
+          <a target="_blank" href='https://x.com/intent/post?text={{ post.title }} {{ site.url }}{{ post.url }}'>Twitter/X</a>
+        </p>
     </article>
 {% endfor %}
 
@@ -18,7 +23,7 @@ title: Adi Purnama
     {% else %}
         <a class="post-pagination-nav" href="#"></a>
     {% endif %}
-        
+
     {% if paginator.next_page %}
     <a class="post-pagination-nav" href="{{ paginator.next_page_path }}">Selanjutnya</a>
     {% else %}
