@@ -3,6 +3,10 @@ $bodyColor: #dddddd;
 $bodyFont: "Ubuntu";
 $linkColor: #aaaaaa;
 
+* {
+  box-sizing: border-box;
+}
+
 body {
   background: $backgroundColor;
   color: $bodyColor;
@@ -28,6 +32,10 @@ a {
 
 .post-navigation-wrapper {
   display: flex;
+}
+
+.rounded {
+  border-radius: 0.25rem;
 }
 
 .post-pagination-nav {
@@ -166,6 +174,11 @@ li {
   margin-top: 2rem;
   margin-bottom: 1rem;
   border-bottom: 1px dashed #777777;
+}
+
+.margin-y-medium {
+  margin-top: 3rem;
+  margin-bottom: 3rem;
 }
 
 @import "layouts";

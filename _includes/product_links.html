@@ -1,4 +1,0 @@
-<h4 style="margin-bottom: 0.5rem">Produk saya:</h4>
-{% for product in site.data.products %}
-  <a href="{{ product.url }}" target="_blank" rel="noopener noreferrer">{{ product.name }}</a>{% if forloop.last == false %} | {% endif %}
-{% endfor %}

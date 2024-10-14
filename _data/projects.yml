@@ -1,0 +1,22 @@
+- name: "Kanyaah: Undangan Digital"
+  short_name: Kanyaah
+  featured_image: /assets/images/projects/kanyaah.png
+  description: |
+    Kanyaah adalah sebuah aplikasi berbasis web untuk membuat undangan digital secara instan.
+
+    Terdapat berbagai variasi template menarik yang bisa dipilih dan diganti-ganti dengan mudah.
+
+    Proses pembuatan undangan di Kanyaah sangat sederhana: masuk menggunakan akun Google, buat undangan, pilih template, isi data undangan, bayar, dan selesai, undangan sudah bisa disebarkan.
+
+    Langkah-langkah tersebut dapat dilakukan hanya dalam 10 menit.
+  url: https://kanyaah.com
+- name: "Gawéeun: To-do App. Focused."
+  short_name: Gawéeun
+  featured_image: /assets/images/projects/gaweeun.png
+  description: |
+    Gawéeun adalah sebuah aplikasi todo list berbasis yang membantu untuk tetap fokus dalam satu hari kerja.
+
+    Untuk mencapai hal tersebut, Gawéeun menampilkan todo yang harus dikerjakan dalam satu hari di posisi paling atas, dan menyembunyikan sisanya di bagian bawah.
+
+    Gawéeun juga mengelompokkan todo ke dalam sebuah topik, supaya todo yang dibuat lebih terorganisasi.
+  url: https://gaweeun.my.id
