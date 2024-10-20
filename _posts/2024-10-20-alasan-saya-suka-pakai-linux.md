@@ -10,9 +10,10 @@ Mau cerita sedikit soal pengalaman saya pakai Linux. Dari yang awalnya "ini OS a
 
 Sekitar tahun 2015, salah satu teman satu jurusan saya lagi asik mainin laptop. Layarnya menampilkan tampilan yang nggak lazim buat saya. Sebuah layar berwarna ungu, dengan tulisan yang mayoritas teksnya "downloading...".
 
-"Lagi ngapain?", tanya saya
-"Lagi ngulik Ubuntu".
+"Lagi ngapain?", tanya saya.
 
+"Lagi ngulik Ubuntu".
+<!--more-->
 Ubuntu? Makhluk apa itu? Pikir saya. Sambil saya lihatin, kok kayaknya seru ya. Saya tanya-tanya seputar Ubuntu ini, dan yang bikin saya tertarik, ternyata Ubuntu ini adalah sistem yang bisa diunduh secara gratis dan open source. Wow!
 
 Bermodalkan insight dari teman saya tersebut, saya mencoba melakukan dual boot di laptop saya. Beberapa kali sempat gagal. Impactnya, mau nggak mau harus clean install ulang laptop beberapa kali 🫠
