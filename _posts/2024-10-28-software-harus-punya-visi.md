@@ -12,7 +12,7 @@ Fiturnya sederhana saja: jurnal harian untuk suatu topik. Kita bisa mengisi sema
 
 Saya simpan ini sebagai backlog di Gawéeun. Kemarin-kemarin baru sempat saya kerjakan. Tanpa pikir panjang, langsung saya kembangkan.
 
-Di tengah proses pengambangan, saya merasakan suatu hal yang ganjil. Rasanya ada hal yang kurang tepat. Saya berhenti sejenak, kemudian mempertanyakan kembali fitur yang sedang dikembangkan ini.
+Di tengah proses pengambangan, saya merasakan suatu hal yang ganjil. Rasanya ada hal yang kurang tepat. <!--more-->Saya berhenti sejenak, kemudian mempertanyakan kembali fitur yang sedang dikembangkan ini.
 
 *Do I really need this?*
 
