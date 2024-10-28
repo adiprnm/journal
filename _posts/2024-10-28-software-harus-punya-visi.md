@@ -3,7 +3,7 @@ layout: post
 permalink: /posts/software-harus-punya-visi
 title: Software Harus Punya Visi
 published_at: 28 Oktober 2024
-category: teknologi, opini, programming, sidehustle
+categories: teknologi, opini, programming, sidehustle
 ---
 
 Ketika mengembangkan salah satu fitur di [Gawéeun](https://gaweeun.my.id), saya hampir terjebak. Ada satu fitur yang, pikir saya, akan bagus kalau saya terapkan.
