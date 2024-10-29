@@ -2,16 +2,26 @@
     margin: 3rem 0;
 
     &__title {
-        margin-bottom: 0; 
-        
+        margin-bottom: 0;
+
         a {
-            color: #dfdfdf;
+            color: $postTitleColor;
         }
     }
 
     &__published-at {
-        color: #aaaaaa;
+        color: $postDateColor;
         margin-top: 0.5rem;
         font-size: 14px;
+    }
+}
+
+.dark .post-card {
+    &__title {
+        a { color: $darkPostTitleColor; }
+    }
+
+    &__published-at {
+        color: $darkPostDateColor;
     }
 }

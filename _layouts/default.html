@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="{{ site.lang | default: "en-US" }}">
+<html lang="{{ site.lang | default: "en-US" }}" class="dark">
   <head>
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta charset="utf-8">
@@ -18,7 +18,10 @@
   <body>
     <main class="container body-wrapper">
       <section>
-        <h1 class="site-title">{{ site.title | default: "Adi Purnama" }}</h1>
+        <div class="flex justify-between items-center full-width margin-top">
+          <h1 class="site-title">{{ site.title | default: "Adi Purnama" }}</h1>
+          <button class="dark-mode" id="darkModeButton">Mode terang</button>
+        </div>
         <p class="site-description">{{ site.description | default: "a personal blog." }}</p>
         <hr />
         <nav>
@@ -29,6 +32,7 @@
         {{ content }}
       </section>
     </main>
+    {% include dark_mode_handler.html %}
   </body>
   <footer class="container footer-nav-wrapper">
     <hr />

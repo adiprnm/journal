@@ -1,0 +1,26 @@
+<script>
+  document.addEventListener("DOMContentLoaded", function() {
+    const enabled = localStorage.getItem("darkModeEnabled")
+
+    if (enabled == "false") {
+      document.querySelector(":root").classList.remove("dark")
+      darkModeButton.textContent = "Mode gelap"
+    } else {
+      darkModeButton.textContent = "Mode terang"
+    }
+
+    darkModeButton.addEventListener("click", function(event) {
+      document.querySelector(":root").classList.toggle("dark");
+
+      const text = event.target.textContent.toLowerCase()
+
+      if (text == "mode terang") {
+        localStorage.setItem("darkModeEnabled", "false")
+        event.target.textContent = "Mode gelap"
+      } else {
+        localStorage.setItem("darkModeEnabled", "true")
+        event.target.textContent = "Mode terang"
+      }
+    })
+  })
+</script>

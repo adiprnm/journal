@@ -17,7 +17,10 @@
   </head>
   <body>
     <main class="container body-wrapper" id="top">
-      <a href="/" class="back">← Kembali ke beranda</a>
+      <div class="flex justify-between items-center full-width margin-top margin-bottom-large">
+        <a href="/" class="back">← Kembali ke beranda</a>
+        <button class="dark-mode" id="darkModeButton">Mode terang</button>
+      </div>
 
       <article class="post-content">
         <h1 class="post-card__title">{{ page.title }}</h1>
@@ -52,6 +55,7 @@
         {% endif %}
       </nav>
     </main>
+    {% include dark_mode_handler.html %}
   </body>
   <footer class="container footer-nav-wrapper">
     <hr />
