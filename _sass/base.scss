@@ -230,6 +230,12 @@ button:hover {
   cursor: pointer;
 }
 
+hr {
+  border: none;
+  border-color: $bodyColor;
+  border-top: 1px solid;
+}
+
 .dark-mode {
   padding: 0.5rem 1rem;
   border-radius: 999px;
