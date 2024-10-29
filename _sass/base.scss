@@ -222,6 +222,10 @@ li {
 .margin-top { margin-top: 1rem; }
 .margin-bottom-large { margin-bottom: 3rem; }
 
+button {
+  font-family: inherit;
+}
+
 button:hover {
   cursor: pointer;
 }
