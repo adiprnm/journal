@@ -4,6 +4,7 @@ title: "(3/3) Liburan ke Yogyakarta: Museum, Kuliner, dan Oleh-oleh"
 permalink: /posts/liburan-ke-yogyakarta-part-3
 category: liburan
 published_at: 28 Januari 2020
+image: /assets/images/adi-og.jpg
 ---
 
 Halo. Udah lama juga ya sejak terakhir post saya yang liburan ke Yogyakarta *part* 2. Karena kesibukan dan satu-lain hal, akhirnya tulisan yang harusnya jadi penutup seri liburan ke Yogyakarta telat terbit.

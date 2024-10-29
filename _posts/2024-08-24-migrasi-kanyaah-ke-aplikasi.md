@@ -4,6 +4,7 @@ permalink: /posts/proses-migrasi-kanyaah-ke-aplikasi-web
 title: Migrasi Kanyaah ke Aplikasi Web
 published_at: 24 Agustus 2024
 category: sidehustle
+image: /assets/images/adi-og.jpg
 ---
 
 Saya punya side hustle kecil-kecilan. Namanya **[Kanyaah](https://kanyaah.com)**. Fokus ke undangan online, khususnya pernikahan. Tapi sekarang udah mendukung undangan khitan juga.

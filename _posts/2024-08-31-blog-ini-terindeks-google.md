@@ -4,6 +4,7 @@ permalink: /posts/blog-ini-akhirnya-terindeks-google
 title: Blog ini Akhirnya Terindeks Google
 published_at: 24 Agustus 2024
 category: sidehustle
+image: /assets/images/adi-og.jpg
 ---
 
 Awal-awal saya buat blog ini, saya cukup cemas. Blog saya udah hampir satu bulan, tapi yang keindeks baru homepage.

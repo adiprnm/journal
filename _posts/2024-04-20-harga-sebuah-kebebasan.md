@@ -4,6 +4,7 @@ permalink: /posts/harga-sebuah-kebebasan
 title: Harga Sebuah Kebebasan
 published_at: 20 April 2024
 category: opini
+image: /assets/images/adi-og.jpg
 ---
 
 Beberapa waktu lalu, saya agak sedikit dilema ketika memilih platform untuk blogging. Di satu sisi, saya perlu analytic website. WordPress punya ini, dan cukup lengkap. Di sisi lain, untuk perihal website, saya suka kalau saya punya kontrol penuh terhadap website saya. Jekyll unggul dalam hal ini.

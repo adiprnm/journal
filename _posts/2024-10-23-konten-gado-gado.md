@@ -4,6 +4,7 @@ permalink: /posts/konten-gado-gado
 title: Konten Gado-gado
 published_at: 23 Oktober 2024
 category: opini
+image: /assets/images/adi-og.jpg
 ---
 
 Mari kita terbang ke tahun 2014, di mana tahun ini media sosial macam TikTok masih belum ada, dan masih cukup banyak orang yang menulis di blog.

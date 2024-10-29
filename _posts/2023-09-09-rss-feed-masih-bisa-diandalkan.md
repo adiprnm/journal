@@ -4,6 +4,7 @@ title: RSS Feed Masih Bisa Diandalkan
 category: teknologi
 permalink: /posts/permalink-masih-bisa-diandalkan
 published_at: 09 September 2024
+image: /assets/images/adi-og.jpg
 ---
 
 Belakangan ini saya senang membaca artikel-artikel atau tweet-tweet yang berkaitan dengan dunia IT, khususnya Ruby on Rails. Banyak sekali informasi baru yang saya peroleh, dari tips-tips saat *development* hingga opini tokoh-tokoh di dunia IT. Yaaa sekalian menambah kosa kata bahasa Inggris saya yang masih sebatas *basic conversation* ini.

@@ -4,6 +4,7 @@ permalink: /posts/pandai-bersyukur
 title: Pandai Bersyukur
 published_at: 19 April 2024
 category: kehidupan
+image: /assets/images/adi-og.jpg
 ---
 
 Sudah beberapa hari ini, gusi gigi geraham bagian belakang saya rasanya sakit sekali. Mengunyah dan menelan makanan rasanya kurang nyaman. Saya kira panas dalam biasa, makanya saya coba minum larutan penyembuh panas dalam. Ternyata belum mendingan juga.

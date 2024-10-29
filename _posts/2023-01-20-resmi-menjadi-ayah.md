@@ -4,6 +4,7 @@ permalink: /posts/resmi-menjadi-ayah
 title: Resmi Menjadi Ayah
 published_at: 20 Januari 2023
 category: kehidupan
+image: /assets/images/adi-og.jpg
 ---
 Sudah hampir seminggu istri mengeluh semakin nggak bisa tidur dengan nyaman. Miring kiri salah. Kanan salah. Telentang pun salah. Wajar aja, karena memang ukuran perutnya saya lihat semakin besar. Udah mendekati HPL.
 

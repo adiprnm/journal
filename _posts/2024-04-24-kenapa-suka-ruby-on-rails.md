@@ -4,6 +4,7 @@ permalink: /posts/alasan-kenapa-saya-suka-rails
 title: Alasan Kenapa Saya Suka Ruby on Rails
 published_at: 24 April 2024
 category: programming
+image: /assets/images/adi-og.jpg
 ---
 
 Ada satu fun fact soal diri saya: saya masuk ke bidang web development karena laptop saya kentang 😂

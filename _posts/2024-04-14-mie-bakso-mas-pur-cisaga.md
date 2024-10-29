@@ -4,6 +4,7 @@ permalink: /posts/mie-bakso-ojolali-mas-pur-cisaga
 title: "Mie Bakso Ojolali Mas Pur: Rekomendasi Mie Bakso di Cisaga"
 published_at: 14 April 2024
 category: kuliner
+image: /assets/images/adi-og.jpg
 ---
 
 Di perjalanan mudik kemarin, kami mampir ke sebuah warung bakso di Cisaga. Kalau dari arah Pangandaran, lokasinya berada di sebelah kanan jalan, sebelum pom bensin. Namanya Mie Bakso Ojolali.

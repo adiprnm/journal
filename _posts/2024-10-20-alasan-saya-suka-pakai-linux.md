@@ -4,6 +4,7 @@ permalink: /posts/alasan-saya-suka-pakai-linux
 title: Alasan Saya Suka Pakai Linux
 published_at: 20 Oktober 2024
 category: teknologi
+image: /assets/images/adi-og.jpg
 ---
 
 Mau cerita sedikit soal pengalaman saya pakai Linux. Dari yang awalnya "ini OS apaan sih" jadi OS favorit saya sampai saat ini.

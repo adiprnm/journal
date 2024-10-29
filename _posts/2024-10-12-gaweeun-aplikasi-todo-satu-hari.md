@@ -4,6 +4,7 @@ permalink: /posts/gaweeun-aplikasi-todo-satu-hari
 title: "Gawéeun: Aplikasi Todo yang Bikin Kamu Tetap Fokus"
 published_at: 12 Oktober 2024
 category: sidehustle
+image: /assets/images/adi-og.jpg
 ---
 
 Sudah banyak aplikasi todo list di luar sana, tapi sedikit yang cocok dengan preferensi saya.

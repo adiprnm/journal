@@ -4,6 +4,7 @@ permalink: /posts/jangan-pakai-orm-kalau-begini
 title: Jangan Pakai ORM, Kalau...
 published_at: 07 April 2024
 categories: programming teknologi
+image: /assets/images/adi-og.jpg
 ---
 
 Beberapa waktu lalu, di X ada perdebatan menggunai apakah penggunaan Object Relational Mapper (ORM) itu diperlukan atau tidak.

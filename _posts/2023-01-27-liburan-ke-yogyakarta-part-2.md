@@ -4,6 +4,7 @@ published_at: 27 Januari 2024
 title: "(2/3) Liburan ke Yogyakarta: Makan Gudeg, Tamansari, Reuni"
 permalink: /posts/liburan-ke-yogyakarta-part-2
 category: liburan
+image: /assets/images/adi-og.jpg
 ---
 
 Besoknya, sekitar pukul setengah 7 pagi, kami berangkat menuju Malioboro untuk mencari sarapan. Tujuan utama kami adalah gudeg Mbok Lindu.

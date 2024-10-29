@@ -4,6 +4,7 @@ permalink: /posts/trip-to-malang-bromo
 title: "Trip to Malang Part 1: Bromo"
 published_at: 26 Mei 2024
 category: liburan
+image: /assets/images/adi-og.jpg
 ---
 
 Libur panjang minggu ini kami manfaatkan untuk liburan ke Malang bersama kerabat. Kami berangkat Minggu pagi, sekitar jam 9. Karena perjalanan menuju Malang itu jauh banget, hari pertama kami menginap di Yogyakarta.
