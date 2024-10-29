@@ -2,6 +2,7 @@
 layout: default
 title: RSS Feed
 permalink: /rss-feed
+image: /assets/images/adi-og.jpg
 ---
 
 Silakan pilih RSS Feed berdasarkan kategori tulisan.

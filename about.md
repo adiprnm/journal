@@ -2,6 +2,7 @@
 layout: default
 title: Tentang Saya
 permalink: /tentang-saya
+image: /assets/images/adi-og.jpg
 ---
 
 <img src="/assets/images/adi-square.jpg" style="width: 150px; margin: 0;">

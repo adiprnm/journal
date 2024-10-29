@@ -8,9 +8,6 @@ twitter:
   card: summary
   username: adi_prnm
 logo: /assets/images/adi-square.jpg
-image:
-  path: /assets/images/adi-square.jpg
-  alt: Adi Purnama
 social:
   name: Adi Purnama
   links:
