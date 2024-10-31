@@ -4,10 +4,10 @@
 
     if (enabled == "false") {
       document.querySelector(":root").classList.remove("dark")
-      darkModeButton.textContent = "Mode gelap"
+      darkModeButton.textContent = "Dark mode"
     } else {
       document.querySelector(":root").classList.add("dark")
-      darkModeButton.textContent = "Mode terang"
+      darkModeButton.textContent = "Light mode"
     }
 
     darkModeButton.addEventListener("click", function(event) {
@@ -15,12 +15,12 @@
 
       const text = event.target.textContent.toLowerCase()
 
-      if (text == "mode terang") {
+      if (text == "light mode") {
         localStorage.setItem("darkModeEnabled", "false")
-        event.target.textContent = "Mode gelap"
+        event.target.textContent = "Dark mode"
       } else {
         localStorage.setItem("darkModeEnabled", "true")
-        event.target.textContent = "Mode terang"
+        event.target.textContent = "Light mode"
       }
     })
   })

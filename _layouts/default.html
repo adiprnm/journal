@@ -20,12 +20,12 @@
       <section>
         <div class="flex justify-between items-center full-width margin-top">
           <h1 class="site-title">{{ site.title | default: "Adi Purnama" }}</h1>
-          <button class="dark-mode" id="darkModeButton">Mode terang</button>
+          <button class="dark-mode" id="darkModeButton">Light mode</button>
         </div>
         <p class="site-description">{{ site.description | default: "a personal blog." }}</p>
         <hr />
         <nav>
-          <a href="/">Beranda</a> | <a href="/tentang-saya">Tentang Saya</a> | <a href="/project">Project</a> | <a href="/tech">Tech</a>
+          <a href="/">Home</a> | <a href="/about">About</a> | <a href="/projects">Projects</a> | <a href="/tech">Tech</a>
         </nav>
       </section>
       <section style="margin-top: 3rem">
@@ -37,7 +37,7 @@
   <footer class="container footer-nav-wrapper">
     <hr />
     <nav>
-      <a href="#">↑ Top</a> | <a href="/arsip">Arsip</a> | <a href="/rss-feed">RSS Feed</a>
+      <a href="#">↑ Top</a> | <a href="/archives">Archives</a> | <a href="/rss-feed">RSS Feed</a>
       {% include project_links.html %}
     </nav>
   </footer>

@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Project Saya
-permalink: /project
+title: My Projects
+permalink: /projects
 image: /assets/images/adi-og.jpg
 ---
 
@@ -10,6 +10,6 @@ image: /assets/images/adi-og.jpg
   <h1 style="font-size: 1.5rem"><a href="{{ project.url }}">{{ project.short_name }}</a></h1>
   <img style="width: 100%" src="{{ project.featured_image }}" alt="{{ project.name }}" />
   {{ project.description | markdownify }}
-  <a class="post-pagination-nav rounded" style="width: 100%;" target="_blank" href="{{ project.url }}">Kunjungi</a>
+  <a class="post-pagination-nav rounded" style="width: 100%;" target="_blank" href="{{ project.url }}">Visit</a>
 </article>
 {% endfor %}

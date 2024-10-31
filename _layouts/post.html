@@ -18,20 +18,22 @@
   <body>
     <main class="container body-wrapper" id="top">
       <div class="flex justify-between items-center full-width margin-top margin-bottom-large">
-        <a href="/" class="back">← Kembali ke beranda</a>
-        <button class="dark-mode" id="darkModeButton">Mode terang</button>
+        <a href="/" class="back">← Back to home</a>
+        <button class="dark-mode" id="darkModeButton">Light mode</button>
       </div>
 
       <article class="post-content">
         <h1 class="post-card__title">{{ page.title }}</h1>
         <hr class="post-divider" />
-        <p class="post-card__published-at">{{ page.published_at }} · {{ page.content | number_of_words | divided_by: 250.0 | ceil }} menit</p>
+
+        {% assign eta = page.content | number_of_words | divided_by: 250.0 | ceil %}
+        <p class="post-card__published-at">{{ page.published_at }} · {{ eta }} {% if eta == 1 %}minute{% else %}minutes{% endif %}</p>
 
         {{ content }}
       </article>
 
       <p>
-        Bagikan:<br/>
+        Share:<br/>
         <a target="_blank" href='https://x.com/intent/post?text={{ page.title }} {{ site.url }}{{ page.url }}'>Twitter/X</a>
       </p>
 

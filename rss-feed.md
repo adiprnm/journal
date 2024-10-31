@@ -5,10 +5,10 @@ permalink: /rss-feed
 image: /assets/images/adi-og.jpg
 ---
 
-Silakan pilih RSS Feed berdasarkan kategori tulisan.
+Choose the RSS Feed based on the posts' categories.
 
 - [Programming](/feed/programming.xml)
 - [Kehidupan](/feed/kehidupan.xml)
 - [Kuliner](/feed/kuliner.xml)
 - [Opini](/feed/opini.xml)
-- [Semua Kategori](/feed.xml)
+- [All categories](/feed.xml)

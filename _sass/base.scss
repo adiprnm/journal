@@ -32,6 +32,11 @@ body {
 
 a { color: $linkColor; }
 
+article h1 a {
+  text-decoration: none;
+  font-size: 1.375rem;
+}
+
 .post-pagination-nav {
   width: 50%;
   display: block;

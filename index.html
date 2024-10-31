@@ -7,12 +7,13 @@ image: /assets/images/adi-og.jpg
 {% for post in paginator.posts %}
     <article class="post-card">
         <h1 class="post-card__title"><a href="{{ post.url }}">{{ post.title }}</a></h1>
-        <p class="post-card__published-at">{{ post.published_at }} · {{ post.content | number_of_words | divided_by: 250.0 | ceil }} menit</p>
+        {% assign eta = post.content | number_of_words | divided_by: 250.0 | ceil %}
+        <p class="post-card__published-at">{{ post.published_at }} · {{ eta }} {% if eta == 1 %}minute{% else %}minutes{% endif %}</p>
         <p>{{ post.excerpt }}</p>
-        <a href="{{ post.url }}">Baca selengkapnya</a>
+        <a href="{{ post.url }}">Read more...</a>
         <hr class="dashed-separator">
         <p>
-          Bagikan:<br/>
+          Share:<br/>
           <a target="_blank" href='https://x.com/intent/post?text={{ post.title }} {{ site.url }}{{ post.url }}'>Twitter/X</a>
         </p>
     </article>
@@ -20,13 +21,13 @@ image: /assets/images/adi-og.jpg
 
 <nav class="post-navigation-wrapper">
     {% if paginator.previous_page %}
-        <a class="post-pagination-nav" href="{{ paginator.previous_page_path }}">Sebelumnya</a>
+        <a class="post-pagination-nav" href="{{ paginator.previous_page_path }}">Previous</a>
     {% else %}
         <a class="post-pagination-nav" href="#"></a>
     {% endif %}
 
     {% if paginator.next_page %}
-    <a class="post-pagination-nav" href="{{ paginator.next_page_path }}">Selanjutnya</a>
+    <a class="post-pagination-nav" href="{{ paginator.next_page_path }}">Next</a>
     {% else %}
         <a class="post-pagination-nav" href="#"></a>
     {% endif %}

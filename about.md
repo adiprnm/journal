@@ -1,20 +1,20 @@
 ---
 layout: default
-title: Tentang Saya
-permalink: /tentang-saya
+title: About Me
+permalink: /about
 image: /assets/images/adi-og.jpg
 ---
 
 <img src="/assets/images/adi-square.jpg" style="width: 150px; margin: 0;">
 
-Halo, saya Adi. Saya adalah seorang full-stack programmer 💎
+Hi, my name is Adi. I am a full-stack Ruby on Rails programmer 💎
 
-Di samping jadi seorang programmer, saya juga suka menulis tulisan-tulisan ringan tentang apapun, entah itu rekomendasi kuliner (karena saya suka jajan) atau opini saya terkait satu hal tertentu.
+Apart from being a programmer, I also love writing about everything, whether it's food (i like foodies!), or my thoughts about something.
 
-Sesekali saya juga akan nulis hal-hal teknis, entah itu #TodayILearn atau share sesuatu yang sudah saya ketahui sebelumnya.
+I'd love to write technical stuff sometimes, either it's a #TIL or share something that I already know.
 
-Pembaca bisa tetap up-to-date dengan blog ini via [RSS feed](/rss-feed). Silahkan pakai aplikasi pembaca RSS feed favorit pembaca.
+You can keep up-to-date with this blog via [RSS feed](/rss-feed). You can use your favorite RSS reader.
 
-Semoga blog ini bermanfaat sebagai sumber informasi atau sebagai teman ngemil pembaca.
+Also, you can find and reach me on [Twitter](https://twitter.com/adi_prnm) and [GitHub](https://github.com/adiprnm). Having interesting stuff to talk, or want to get in touch? Reach me at **adi [at] adipurnm.my.id**.
 
-Oiya, pembaca juga bisa menemukan saya di X [@adi_prnm](https://twitter.com/adi_prnm) dan di GitHub [adiprnm](https://github.com/adiprnm).
+I hope you find this blog useful. Thank you for visiting this blog!

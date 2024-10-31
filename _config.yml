@@ -1,8 +1,8 @@
 url: "https://adipurnm.my.id" # the base hostname & protocol for your site, e.g. http://example.com
 baseurl: "" # the subpath of your site, e.g. /blog
 title: "Adi Purnama" # the name of your site, e.g. ACME Corp.
-tagline: Jurnal orang biasa
-description: Tempat nulis opini dan catatan ringan seputar tech dan daily life.
+tagline: An ordinary man's journal
+description: I write about programming, tech, and daily life. Opinions are on my own.
 author: Adi Purnama
 twitter:
   card: summary
