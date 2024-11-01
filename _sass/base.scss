@@ -115,7 +115,10 @@ article h1 a {
   border-radius: 0.25rem;
 }
 
-.back { display: block; }
+.back {
+  display: block;
+  text-decoration: none;
+}
 
 .post-content {
   margin-top: 2rem;
@@ -253,6 +256,24 @@ hr {
 .dark .dark-mode {
   background-color: $darkPaginationBackgroundColor;
   color: $darkPostTitleColor;
+}
+
+.inline-nav {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+.inline-nav li {
+  display: inline;
+}
+
+.inline-nav li::after {
+  content: " | "
+}
+
+.inline-nav li:last-child::after {
+  content: ""
 }
 
 @import "layouts";

@@ -15,7 +15,7 @@ social:
   - https://github.com/adiprnm
   - https://linkedin.com/in/adi-prnm
 google_site_verification: google-site-verification=IiH3Ofey8Y2cbvKc6dp_yCPsEF9Hlk3zScc2LtxsHwk
-locale: id_ID
+locale: en_US
 
 paginate: 6
 paginate_path: "/posts/page-:num/"

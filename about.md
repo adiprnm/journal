@@ -3,6 +3,7 @@ layout: default
 title: About Me
 permalink: /about
 image: /assets/images/adi-og.jpg
+description: Hi, my name is Adi. I am a full-stack Ruby on Rails programmer. Apart from being a programmer, I also love writing about technical stuff, essay, food, or travel. Opinions are on my own.
 ---
 
 <img src="/assets/images/adi-square.jpg" style="width: 150px; margin: 0;">
