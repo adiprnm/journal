@@ -69,8 +69,12 @@
   <footer class="container footer-nav-wrapper">
     <hr />
     <nav>
-      <a href="#">↑ Top</a> | <a href="/rss-feed">RSS Feed</a>
-      {% include project_links.html %}
+      <ul class="inline-nav">
+        <li><a href="#">↑ Top</a></li>
+        <li><a href="/archives">Archives</a></li>
+        <li><a href="/rss-feed">RSS Feed</a></li>
+      </ul>
     </nav>
+    {% include project_links.html %}
   </footer>
 </html>

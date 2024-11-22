@@ -25,7 +25,7 @@
   <body>
     <main class="container body-wrapper">
       <section>
-        <div class="flex justify-between items-center full-width margin-top">
+        <div class="flex justify-between items-center full-width margin-top-medium">
           <h1 class="site-title">{{ site.title | default: "Adi Purnama" }}</h1>
           <button class="dark-mode" id="darkModeButton">Light mode</button>
         </div>
@@ -48,7 +48,7 @@
     </main>
     {% include dark_mode_handler.html %}
   </body>
-  <footer class="container footer-nav-wrapper">
+  <footer class="container margin-top-large">
     <hr />
     <nav>
       <ul class="inline-nav">

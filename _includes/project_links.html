@@ -1,6 +1,6 @@
 <h4 style="margin-bottom: 0.5rem">My projects:</h4>
 <p style="margin: 0">
   {% for project in site.data.projects %}
-    <a href="{{ project.url }}" target="_blank" rel="noopener noreferrer">{{ project.name }}</a>{% if forloop.last == false %} | {% endif %}
+    <a href="{{ project.url }}" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">{{ project.name }}</a>{% if forloop.last == false %} | {% endif %}
   {% endfor %}
 </p>
